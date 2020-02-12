@@ -61,11 +61,12 @@ body {
   }
   
   .saveBtn {
-    border-left: 1px solid black;
+    border-left: 3px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     background-color: darkslategray;
     color: white;
+    font-weight: bolder;
     padding: 30px;
     padding-top: 30px;
     height: 80px;
@@ -106,6 +107,6 @@ h1 {
   font-weight: bolder;
 }
 
-p{
+p {
   color: grey;
 }
